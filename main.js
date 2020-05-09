@@ -16,4 +16,4 @@ for (let x = 0; x < pronoun.length; x++) {
 
 
 
-
+document.queryselector("#btnDomain").innerHTML = ""
